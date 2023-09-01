@@ -1,0 +1,13 @@
+body{
+    background-image: url("./asset/shade.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    font-size: 75px;
+    max-width: 200px;
+    margin: 0 auto;
+    margin-top: 300px;
+    font-family: Brush Script MT;
+}
